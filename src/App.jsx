@@ -1,6 +1,6 @@
-import Navbar from "./constants/Navbar"
-import Hero from "./constants/Hero"
-import Highlights from "./constants/Highlights"
+import Navbar from "./components/Navbar"
+import Hero from "./components/Hero"
+import Highlights from "./components/Highlights"
 
 const App =  () => {
   return (
