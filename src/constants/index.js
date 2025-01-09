@@ -46,7 +46,7 @@ import {
     },
   ];
   
-  export const models = [
+  export const iphone_model = [
     {
       id: 1,
       title: "iPhone 15 Pro in Natural Titanium",
